@@ -51,7 +51,7 @@ plugins:
       - TVHTML5EMBEDDED
 
 server:
-  port: 1033
+  port: 1035
   address: 0.0.0.0
 
 lavalink:
